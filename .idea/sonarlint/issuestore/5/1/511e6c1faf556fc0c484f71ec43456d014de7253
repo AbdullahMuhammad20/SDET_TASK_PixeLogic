@@ -1,0 +1,14 @@
+
+q	java:S1163"PRename this field "EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ë€×øÿÿÿÿ8õ›Êóº.
+u	java:S1161"TRename this field "LAST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¡ò¾ıÿÿÿÿ8­Éóº.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(›€ğÊ8òûØß».
+l	java:S1162"PRename this field "PHONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çû±ä8ºçÉóº.
+s	java:S1165"WRename this field "CONFIRM_PASS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â«8èËóº.
+t	java:S1164"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÓ¯«ıÿÿÿÿ8ÃËÊóº.
+W	java:S125J"<This block of commented-out lines of code should be removed.(á¢«8Èİ¯×».
+u
+java:S1450$"SRemove the "wait" field and declare it as a local variable in the relevant methods.(íÒá§ùÿÿÿÿ8şò å».
+q	java:S1160"URename this field "FIRST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëãô¨8İÚÇóº.
+t	java:S116,"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓÿÁùÿÿÿÿ8Øì„óº.
+U
+java:S1117¥"8Rename "wait" which hides the field declared at line 36.(áµ£$8òûØß».

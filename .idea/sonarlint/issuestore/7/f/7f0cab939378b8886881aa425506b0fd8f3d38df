@@ -1,0 +1,52 @@
+
+j	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©¨¨8ø‘„ß».
+v	java:S116%"[Rename this field "First_Name_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ĞG8ø‘„ß».
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‚Œÿÿÿÿÿ8ÌâÍß».
+€	java:S116,"dRename this field "Password_Max_Length_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÔÓê8‚ºß».
+p	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+r	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àñ‰Áÿÿÿÿÿ8ø‘„ß».
+€	java:S116*"_Rename this field "Email_Existing_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‹Åşÿÿÿÿ8Ñá¯ß».
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¯˜8ø‘„ß».
+m	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÍ™†8ø‘„ß».
+z	java:S116("^Rename this field "Mobile_Number_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œá”á8íÜ».
+X
+java:S1141Î"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8‹†’ß».
+x	java:S116 "WRename this field "confirm_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¦£úÿÿÿÿ8ø‘„ß».
+i
+java:S1192ˆ"KDefine a constant instead of duplicating this literal "Asd123456" 14 times.(ªçÿ“8ÖŠß».
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©¨¨8ø‘„ß».
+d
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "ahmed" 7 times.(ªçÿ“8¡Ü”ß».
+y	java:S116)"]Rename this field "Email_Format_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛ”8ÂŒ¯ß».
+v	java:S116"URename this field "first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Öùúÿÿÿÿ8ø‘„ß».
+p	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âËóšûÿÿÿÿ8ø‘„ß».
+j
+java:S1192ˆ"LDefine a constant instead of duplicating this literal "01145612426" 7 times.(ªçÿ“8§ë‹ß».
+r	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çú¿îûÿÿÿÿ8Ğï¥Ü».
+s	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¥©Âûÿÿÿÿ8‹†’ß».
+v	java:S116&"ZRename this field "Last_Name_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‘É8ªâ™Ü».
+}	java:S116'"bRename this field "First_Last_Name_Matches" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›®ßn8›ß›Ü».
+	java:S116+"`Rename this field "Password_Format_Alert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³„º×üÿÿÿÿ8õ²Ü».
+j	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¯˜8ø‘„ß».
+c
+java:S1126q"AReplace this if-then-else statement by a single return statement.(µœ·£ıÿÿÿÿ8ø‘„ß».
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+k	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿Íš8Àè¤ß».
+r	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ğáäùÿÿÿÿ8ø‘„ß».
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+p	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÏêüÿÿÿÿ8¡Ü”ß».
+v	java:S116!"URename this field "btn_signUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú½â úÿÿÿÿ8äÃÔ•º.
+k	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›é8¥æ§ß».
+m	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì­Ñ£8ø‘„ß».
+p	java:S116"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ„¬8äÃÔ•º.
+k	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÆˆ”8‹†’ß».
+s	java:S116""WRename this field "alert_Dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎŞØ8¸ÔÜ».
+j	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì­Ñ£8ø‘„ß».
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+p	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÉüÀûÿÿÿÿ8–ƒÅß».
+j	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»­Àa8Õªß».
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŞ¸Äÿÿÿÿÿ8ø‘„ß».
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¨ÁÇıÿÿÿÿ8‹†’ß».
+]	java:S1253"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ø‘„ß».
